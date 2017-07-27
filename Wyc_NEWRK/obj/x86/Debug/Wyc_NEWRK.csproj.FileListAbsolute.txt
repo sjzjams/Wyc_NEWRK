@@ -1,0 +1,124 @@
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.exe
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.pdb
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Properties.Resources.resources
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.exe
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.pdb
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form3WaittingGetTotalRecords.cs.resources
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.BatchInsert.resources
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.db3tomysql.resources
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form1.resources
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form2WaittingGetTotalRecords.resources
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.FormWaittingGetTotalRecords.resources
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Output.resources
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.test.resources
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.exe.config
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\cs\Wyc_NEWRK.resources.dll
+F:\visual studio 2010\Projects\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\cs\Wyc_NEWRK.resources.dll
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.exe.config
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.exe
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.pdb
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.exe
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.pdb
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\cs\Wyc_NEWRK.resources.dll
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.BatchInsert.resources
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.db3tomysql.resources
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form1.resources
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form2WaittingGetTotalRecords.resources
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.FormWaittingGetTotalRecords.resources
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Output.resources
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Properties.Resources.resources
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.test.resources
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form3WaittingGetTotalRecords.cs.resources
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\cs\Wyc_NEWRK.resources.dll
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.exe.config
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.exe
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.pdb
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.exe
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.pdb
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\cs\Wyc_NEWRK.resources.dll
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.BatchInsert.resources
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.db3tomysql.resources
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form1.resources
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form2WaittingGetTotalRecords.resources
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.FormWaittingGetTotalRecords.resources
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Output.resources
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Properties.Resources.resources
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.test.resources
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form3WaittingGetTotalRecords.cs.resources
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\罗浩程序\伪原创\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\cs\Wyc_NEWRK.resources.dll
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.exe.config
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.exe
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.pdb
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.exe
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.pdb
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\cs\Wyc_NEWRK.resources.dll
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.BatchInsert.resources
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.db3tomysql.resources
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form1.resources
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form2WaittingGetTotalRecords.resources
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.FormWaittingGetTotalRecords.resources
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Output.resources
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Properties.Resources.resources
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.test.resources
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form3WaittingGetTotalRecords.cs.resources
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\WebSite\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\cs\Wyc_NEWRK.resources.dll
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.exe.config
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.exe
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.pdb
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.exe
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.pdb
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\cs\Wyc_NEWRK.resources.dll
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.BatchInsert.resources
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.db3tomysql.resources
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form1.resources
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form2WaittingGetTotalRecords.resources
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.FormWaittingGetTotalRecords.resources
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Output.resources
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Properties.Resources.resources
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.test.resources
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form3WaittingGetTotalRecords.cs.resources
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\cs\Wyc_NEWRK.resources.dll
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.daoruxuansan.resources
+E:\qiangqiang\Wyc_NEWRKluohao\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\bin\Debug\App_Data\SpiderResult.mdb
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.exe.config
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.exe
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.pdb
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\bin\Debug\App_Data\SpiderResult.mdb
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.exe
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.pdb
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\cs\Wyc_NEWRK.resources.dll
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.csprojResolveAssemblyReference.cache
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.BatchInsert.resources
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.daoruxuansan.resources
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.db3tomysql.resources
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form1.resources
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form2WaittingGetTotalRecords.resources
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.FormWaittingGetTotalRecords.resources
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Output.resources
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Properties.Resources.resources
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.test.resources
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.Form3WaittingGetTotalRecords.cs.resources
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.csproj.GenerateResource.Cache
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\cs\Wyc_NEWRK.resources.dll
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.IndexForm.resources
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.hetong.resources
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.exe.manifest
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\bin\Debug\Wyc_NEWRK.application
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.TrustInfo.xml
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.exe.manifest
+F:\罗浩\伪原创最终版\Wyc_NEWRK\Wyc_NEWRK\obj\x86\Debug\Wyc_NEWRK.application
